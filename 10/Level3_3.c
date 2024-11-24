@@ -17,4 +17,3 @@ int Func1(int tmp[]) {
         printf("%d, ", *(tmp+i));
     printf("\n");
 }
-
